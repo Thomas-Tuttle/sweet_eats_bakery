@@ -1,2 +1,2 @@
 # sweet_eats_bakery
-bakery website
+The sweet eats bakery website from codepen
